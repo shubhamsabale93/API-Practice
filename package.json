@@ -1,0 +1,16 @@
+{
+  "name": "kitchen-server",
+  "version": "1.0.0",
+  "description": "Simple Fruit Server",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Shubham-Sabale",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0"
+  }
+}
